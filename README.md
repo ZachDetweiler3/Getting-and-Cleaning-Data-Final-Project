@@ -1,6 +1,5 @@
 In order to properly use the attached script, first download the UCI HAR 
-Dataset to any location, set the working directoryas the parent folder where the
-unzipped UCI HAR Dataset folder is located.
+Dataset to any location, set the working directory as the parent folder where the unzipped UCI HAR Dataset folder is located.
 
 Once this is done, you should be able to run the attached R script: 
 run_analysis.R
