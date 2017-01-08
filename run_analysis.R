@@ -1,4 +1,4 @@
-#used dplyr package and data.table package
+#used dplyr package
 library(dplyr)
 
 #read UCI HAR Dataset/activity_labels.txt with a header and separating activity and number representative
